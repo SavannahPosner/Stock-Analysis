@@ -3,23 +3,23 @@
 
 # Kickstarter Analysis 
 
-### Overview of Project: Explain the purpose of this analysis.
+## Overview of Project: Explain the purpose of this analysis.
 
  
-#### Background 
+### Background 
 Louise became aware that the play Fever approached its fundraising goal comparatively quickly. In response, she became curious about the characteristics leading to the success of this project. Consequently, she wanted to know how the launch date and fundraising goals can affect the effectiveness of her theatrical productions.   
 
 
-#### Purpose 
+### Purpose 
 The purpose of analyzing and visualizing the data is to measure the effectiveness of the time of year and fundraising goals in their respective fields. By breaking this data apart and visualizing it, we can observe and analyze trends that either add or take away from the success, failure, or cancelation of the projects.  More specifically, we are looking at the successful effect that the time of the year has on theatre fundraisers per month to find the most effective and least effective times of the year to have a theatre-based fundraiser. We are also looking at what funding goals for plays have the highest and lowest success rates ( and failure and cancelation rates ) because it not only more accurately represents the data, but also improves the success rates among the plays. 
 
-### Analysis and Challenges
+## Analysis and Challenges
 
-#### Analysis and Challenges: Outcomes Based on Launch Date Chart 
+### Analysis and Challenges: Outcomes Based on Launch Date Chart 
 Experimentation 
 I felt confident throughout much of this section of the challenge activity. Most of it had me doing a variety of things that I had previously done. However, when I approached the YEARS () aspect of the project I was a little confused. Luckily, Excel has short explanations of the usage of the commands upon selecting them. Through experimenting with Excel and the YEARS () command I could go and click on the sheet that I needed to pull data from, click on the data that I needed to use, and in that way, input the information I needed to run my function correctly, which is something that became a very useful tool for me. 
 
-#### Reflection 
+### Reflection 
 
 Outside of the YEARS () function, I don’t believe I encountered anything that I hadn’t already seen in Module 1. Much of the value for me in the “Outcomes Based on Launch Date Chart” was in doing the things I had done previously with the Module 1 explanations by myself. 
 Analysis and Challenges: Outcomes Based on Goal Chart 
@@ -48,16 +48,16 @@ I included a picture of what my line graph looked like after I made the first co
 
 
 
-### Results 
-#### Outcomes of the Launch Date Conclusions 
+## Results 
+### Outcomes of the Launch Date Conclusions 
 May through July had the highest amount of successful theatre fundraisers and had the largest gap between successes and failures, making May through July the months during this period of observation when the success rates were highest. of December, the gap between the successes of theatre fundraisers and the failures of theatre fundraisers approach 0, approaches having the lowest success rate. 
 
-#### Outcomes-based-goals Conclusions 
+### Outcomes-based-goals Conclusions 
 There is neither a positive or negative relationship between the goals of funds set and their success rates, nor the failure rates. 
-#### Limitations of the Data Set
+### Limitations of the Data Set
 The data set doesn’t provide any reasonings that might describe the behavior that we can observe. The data set can’t explain why December had the lowest success rate. Is it because people don’t want to see plays when it is cold? Is it because families feel financially exhausted during the holidays? Is it something else? This data can’t tell us. This data set also doesn’t tell us the cities of these various plays which can have a monumental impact on the analysis of the data. Another limitation to this data set is that it lacks the specification of the genre of the performance that takes place, which could be used to find where peoples’ interests lie, especially if the cities were available. 
 
 
 
-#### Possible Tables and Graphs adding to the body of knowledge 
+### Possible Tables and Graphs adding to the body of knowledge 
 There could be bar graphs of average donations based on country. This could give Louise more knowledge about who is donating the most money. There could be line graphs of average donations based on years. This could give Louise knowledge about what years people were more generous, which could be associated with political, economic, or social issues. With a bar graph there could be a comparison of the success rates of staff picks and picks that weren’t made by staff. This could illustrate who has picked the plays with the highest success rates. 
